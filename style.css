@@ -1,25 +1,31 @@
-ol {
-  margin-left: -40px;
-  margin-top: -20px;
-  list-style-position: inside;
+.color-title {
+  font-weight: normal;
 }
 
-p {
+img{
+  height: 200px;
+  width: 200px;
+  border-top-left-radius: 20px;
+}
+
+#red {
   color: red;
 }
 
-.note {
-  font-size: 20px;
+#blue {
+  color: blue;
+
+
 }
 
-#id-selector-demo {
+#orange {
+  color: orange;
+}
+
+#green {
   color: green;
 }
 
-li[value="4"] {
-  color: blue;
-}
-
-* {
-  text-align: center;
+#yellow {
+  color: yellow;
 }
