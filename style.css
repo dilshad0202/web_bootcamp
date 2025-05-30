@@ -1,26 +1,26 @@
-html {
-  font-size: 30px;
+div {
+  height: 200px;
+  width: 200px;
+
 }
 
-body {
-  background-color: cornflowerblue;
-  color: white;
-  font-size: 18px;
+#first {
+  background-color: red;
+  padding: 10px;
+  border: 10px dashed black;
 }
 
-#coral{
-  color: coral;
+#second {
+  background-color: gold;
+    border:   solid black;
+  border-width: 20px 10px;
+  margin-left: 240px;
+
+
 }
 
-#fontSize{
-  font-size: 2rem;
-}
-
-
-#cavet {
-  font-family: "Caveat", cursive;
-}
-
-#right-text {
-  text-align: right;
+#third {
+  background-color: aquamarine;
+  border: 10px solid black;
+  margin-left: 460px;
 }
