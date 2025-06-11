@@ -1,35 +1,21 @@
-/* Don't change the existing CSS. */
 
 
-#outer-box {
-  background-color: purple;
-  border: 30px none;
-  border-color: green;
- 
-
+h1, h2{
+    color: blue;
 }
 
-
-.box {
-  background-color: blue;
-  padding: 10px;
-
+.box > p  {
+    color: red;
 }
 
-
-
-
-.inner-box {
-  background-color: red;
+.box li {
+    color: blue;
 }
 
-
-.white-text {
-  color: white;
+li.done{
+    color: green;
 }
 
-p {
-  color: yellow;
-  margin: 0;
-  padding: 0;
+ul > p {
+    font-size: 30px;
 }
