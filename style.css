@@ -23,6 +23,12 @@ h1 {
   height: 200px;
   margin-right: 50px;
 }
+.tile-simage{
+  float: left;
+  height: 200px;
+  margin-right: 50px;
+}
+
 
 .creative{
   color: aquamarine;
